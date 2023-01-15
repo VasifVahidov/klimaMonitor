@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KlimaMonitorApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(KlimaMonitorApplication.class, args);
+		System.out.println("Hello Github!");
 	}
 
 }
